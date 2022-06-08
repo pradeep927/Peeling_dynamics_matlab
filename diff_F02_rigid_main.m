@@ -63,7 +63,6 @@ addpath('Toolbox_mechanics')      % Toolbox for the mechanics
 addpath('Toolbox_bsplines')       % Toolbox for the bsplines calculations
 addpath('Toolbox_minimodel')      % Toolbox for the mini model programm
 load('Initial_parameters_diff.mat')
-return
 g=2;
 global Mat_param ini_Val Invariant_mini Invariant_main_b Invariant_main_u
 Mat_param.aaa=13;
