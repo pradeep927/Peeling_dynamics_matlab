@@ -1,5 +1,5 @@
 # Peeling_dynamics_matlab
-It contains the MATLAB code for SIMULATION OF SOFT ADHESION MEDIATED BY MOBILE BINDERS
+It contains the MATLAB code for Peeling dynamics of fluid membranes bridged by molecular bonds
 This folder contains several Matlab scripts implementing the computational method described in Supplementary Note 1 to approximate the mathematical model described in the paper. These codes were used to generate all the data in the paper. 
 
 1. diff_F02_rigid_main.m corresponds to diffusion-dominated regime with rigid bonds for F=0.2 (see Fig. 2).
